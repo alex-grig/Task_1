@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  Yalantis_task_1
 //
 //  Created by robert on 02.08.15.
@@ -8,8 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface TableViewController : UITableViewController
 
+@property NSArray * arrayImage;
+@property NSDictionary * imageText;
 
 @end
-

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>Blue</string>
+		<key>imageName</key>
+		<string>image (1).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Red</string>
+		<key>imageName</key>
+		<string>image (2).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Sky</string>
+		<key>imageName</key>
+		<string>image (3).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Sea</string>
+		<key>imageName</key>
+		<string>image (4).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Green</string>
+		<key>imageName</key>
+		<string>image (5).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Autumn</string>
+		<key>imageName</key>
+		<string>image (6).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Trees</string>
+		<key>imageName</key>
+		<string>image (7).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>River</string>
+		<key>imageName</key>
+		<string>image (8).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Infinity</string>
+		<key>imageName</key>
+		<string>image (9).jpg</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Forest</string>
+		<key>imageName</key>
+		<string>image (10).jpg</string>
+	</dict>
+</array>
+</plist>
